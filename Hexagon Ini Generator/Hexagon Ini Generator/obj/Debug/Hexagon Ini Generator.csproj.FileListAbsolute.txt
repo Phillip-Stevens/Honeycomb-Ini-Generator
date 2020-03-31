@@ -1,0 +1,7 @@
+C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\bin\Debug\Hexagon Ini Generator.exe.config
+C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\bin\Debug\Hexagon Ini Generator.exe
+C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\bin\Debug\Hexagon Ini Generator.pdb
+C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.csprojAssemblyReference.cache
+C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.csproj.CoreCompileInputs.cache
+C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.exe
+C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.pdb
