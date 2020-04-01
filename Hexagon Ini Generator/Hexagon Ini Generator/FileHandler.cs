@@ -9,6 +9,9 @@ namespace Hexagon_Ini_Generator
 {
     class FileHandler
     {
+        public string templateFilePath
+        { get; set; }
+
         public string fileText
         { get; set; }
 
@@ -18,6 +21,13 @@ namespace Hexagon_Ini_Generator
         public string docPath
         { get; set; }
 
+        public FileHandler()
+        {
+            templateFilePath = @"C:\Users\philt\Documents\Rainmeter\Skins\Honeycomb\Template ini.txt";
+            FileRead(templateFilePath);
+
+            return;
+        }
 
         public void FileRead(string filePath)
         {

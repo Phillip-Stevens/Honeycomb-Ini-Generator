@@ -5,3 +5,10 @@ C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debu
 C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.csproj.CoreCompileInputs.cache
 C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.exe
 C:\Users\philt\source\repos\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.pdb
+C:\Users\Phil Stevens\Source\Repos\Phillip-Stevens\Honeycomb-Ini-Generator\Hexagon Ini Generator\Hexagon Ini Generator\bin\Debug\Hexagon Ini Generator.exe.config
+C:\Users\Phil Stevens\Source\Repos\Phillip-Stevens\Honeycomb-Ini-Generator\Hexagon Ini Generator\Hexagon Ini Generator\bin\Debug\Hexagon Ini Generator.exe
+C:\Users\Phil Stevens\Source\Repos\Phillip-Stevens\Honeycomb-Ini-Generator\Hexagon Ini Generator\Hexagon Ini Generator\bin\Debug\Hexagon Ini Generator.pdb
+C:\Users\Phil Stevens\Source\Repos\Phillip-Stevens\Honeycomb-Ini-Generator\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.csprojAssemblyReference.cache
+C:\Users\Phil Stevens\Source\Repos\Phillip-Stevens\Honeycomb-Ini-Generator\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.csproj.CoreCompileInputs.cache
+C:\Users\Phil Stevens\Source\Repos\Phillip-Stevens\Honeycomb-Ini-Generator\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.exe
+C:\Users\Phil Stevens\Source\Repos\Phillip-Stevens\Honeycomb-Ini-Generator\Hexagon Ini Generator\Hexagon Ini Generator\obj\Debug\Hexagon Ini Generator.pdb

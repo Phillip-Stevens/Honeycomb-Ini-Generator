@@ -8,20 +8,27 @@ namespace Hexagon_Ini_Generator
 {
     class Program
     {
+        public string itemEntered
+        { get; set; }
+
+        public string[] replaceItems
+        { get; set; }
+
         static void Main(string[] args)
         {
 
-                Console.WriteLine("Program Start!");
+            Console.WriteLine("Program Start!");
 
-                FileHandler handler = new FileHandler();
+            // Create File Handler which reads file in
+            FileHandler handler = new FileHandler();
 
-                handler.FileRead(@"C:\Users\philt\Documents\Rainmeter\Skins\Honeycomb\Template ini.txt");
+            Console.ReadKey();
 
-                Console.ReadKey();
+            handler.ReplaceText("PROGRAMNAME", "TEST");
 
-                handler.ReplaceText("PROGRAMNAME", "TEST");
+            handler.CreateFile();
 
-                handler.CreateFile();
+            // Plan is to create a loop here that will one by one loop over asking set questions via a for loop.
         }
     }
 }
